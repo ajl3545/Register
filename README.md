@@ -17,3 +17,6 @@ Maven allows you to create dependencies. These dependencies are simply just libr
 dependencies in the auto-generated pom.xml file. I have already included the dependency for mysql-connector/j.
 
 4. Run the code. I have a sample running that pulls from a database I already created.
+
+
+Note: My database has a table called "inventory" which has rows with values "Name" and "Price" - these values will also be different for your database and table. You must create a table with these exact values, or make a new table with custom values and change the code to match your database and table.
