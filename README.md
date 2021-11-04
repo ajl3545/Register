@@ -4,7 +4,7 @@ A Starter project for a Store Register Application
 # Setup
 1. Download Mysql community server and workbench
 https://dev.mysql.com/downloads/
-Make sure during installation and setup that you make the username and password simple and easy to remember. This should be for development purposes. You will need these values later. The DatabaseDriver.java file has a line that includes my database name "mydatabase" and my username "root" and my password "lamarche"
+Make sure during installation and setup that you make the username and password simple and easy to remember. This should be for development purposes. You will need these values later. The DatabaseDriver.java file has a line that includes my database name "mydatabase" and my username "root" and my password "lamarche". You're going to have to change these values to the ones you provided during setup.
 These files will be useful for when you want to test sql statements and add to the databases manually.
 
 2. Download intelliJ
